@@ -102,4 +102,4 @@ login - (when password is given) to login to bot
 
 [Dan](https://telegram.dog/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-[DARK WEBLOAD](https://t.me/DARKWEBLOAD) for teaching me python
+[Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳](https://t.me/DARKWEBLOAD) for teaching me python
