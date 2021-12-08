@@ -2,31 +2,31 @@
 I think this repo gonna become one of the best renamer open source 🥰.
 
 Please Give a ⭐ if you like this repo and also try following me for more best open source codes<br><br>
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/blue?icon=github)](https://github.com/Ns-Bots/TG-RENAMER-BOT)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/blue?icon=github)](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
 
 ## Mapping
-[Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT#deploy-to-heroku-)
+[Deploy to Heroku 🗳](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#deploy-to-heroku-)
 
-[Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT#bot-features-)
+[Bot Features 🔥](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#bot-features-)
 
-[Required Vars 💥](https://github.com/Ns-Bots/TG-RENAMER-BOT#required-vars-)
+[Required Vars 💥](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#required-vars-)
 
-[Optional Vars 💬](https://github.com/Ns-Bots/TG-RENAMER-BOT#optional-vars-)
+[Optional Vars 💬](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#optional-vars-)
 
-[Available Commands 🤖](https://github.com/Ns-Bots/TG-RENAMER-BOT#available-commands-)
+[Available Commands 🤖](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#available-commands-)
 
-[Dev 🧑‍💻](https://github.com/Ns-Bots/TG-RENAMER-BOT#dev-)
+[Dev 🧑‍💻](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#dev-)
 
 [TODO 🤧](https://github.com/Ns-Bots/TG-RENAMER-BOT#todo-)
 
-[Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT#thanks-and-credits-)
+[Thanks And Credits 🎉](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT)
 
 ## Bot Features 🔥
 - Renaming Telegram files as file or video.
@@ -98,7 +98,7 @@ login - (when password is given) to login to bot
 - [ ] Increasing error handlers
 
 ## Thanks And Credits 🎉
-[SpEcHiDe](https://github.com/SpEcHiDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
+[SpEcHiDe](https://github.com/SpEcHiDe) for his [AnyDlBot](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT)
 
 [Dan](https://telegram.dog/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram)
 
