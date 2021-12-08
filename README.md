@@ -98,7 +98,7 @@ login - (when password is given) to login to bot
 - [ ] Increasing error handlers
 
 ## Thanks And Credits 🎉
-[SpEcHiDe](https://github.com/SpEcHiDe) for his [AnyDlBot](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT)
+[Follow](https://github.com/darkvebload) for his [Renamer bot](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT)
 
 [Dan](https://telegram.dog/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram)
 
