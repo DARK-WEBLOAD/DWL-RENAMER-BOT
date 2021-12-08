@@ -17,7 +17,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 
 [Available Commands 🤖](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#available-commands-)
 
-[Dev 🧑‍💻](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#dev-)
+[Dev 🧑‍💻](https://t.me/DARKWEBLOAD#dev-)
 
 [TODO 🤧](https://github.com/Ns-Bots/TG-RENAMER-BOT#todo-)
 
