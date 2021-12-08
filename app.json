@@ -46,7 +46,7 @@
             "required": false
         },
         "OWNER_ID": {
-            "description": "Your Telegram user id, Get this from @FileStore_Nsbot."
+            "description": "Your Telegram user id."
         },
         "ENV": {
             "description": "Set it to anything to enable configuration by environment variables.",
