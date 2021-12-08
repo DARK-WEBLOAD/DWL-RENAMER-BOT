@@ -3,11 +3,11 @@ I think this repo gonna become one of the best renamer open source 🥰.
 
 Please Give a ⭐ if you like this repo and also try following me for more best open source codes<br><br>
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/blue?icon=github)](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://t.me/DARKWEBLOAD)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/DARKWEBLOAD)
 
 ## Mapping
-[Deploy to Heroku 🗳](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#deploy-to-heroku-)
+[Deploy to Heroku 😉](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#deploy-to-heroku-)
 
 [Bot Features 🔥](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#bot-features-)
 
@@ -21,7 +21,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 
 [TODO 🤧](https://github.com/Ns-Bots/TG-RENAMER-BOT#todo-)
 
-[Thanks And Credits 🎉](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#thanks-and-credits-)
+[Thanks And Credits 😍](https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
