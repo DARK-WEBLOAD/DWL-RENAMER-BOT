@@ -22,11 +22,11 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [UNIVERSAL MOVIES](https://t.me/joinchat/FYBCIcMfr0AyOTFl)
+** Channel:** [ᴊᴏɪɴ ғᴀsᴛ](https://t.me/joinchat/FYBCIcMfr0AyOTFl)
 
-** Group:** [UNIVERASAL MOVIES DISCUSS](https://t.me/universalmovieE)
+** Group:** [Cɪɴᴇᴍᴀ Hᴜʙ](https://t.me/cinemahubmoviesS)
 
-** Source Code:** [click here](https://t.me/joinchat/oGgao285rtBhNmM9)
+** Source Code:** [Cʟɪᴄᴋ Hᴇʀᴇ](https://t.me/joinchat/oGgao285rtBhNmM9)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -59,4 +59,4 @@ __--Payment Methods:--__
  
 GooglePay / Paytm / PhonPay / paypal / Net Banking
  
-**For Donate:** message me @MaxxRiderz"""
+**For Donate:** message me @DARKWEBLOAD"""
