@@ -14,10 +14,10 @@ from pyrogram.emoji import *
 @DWLrenamer.on_message(filters.command("help") & filters.private & filters.incoming)
 async def help(c, m, cb=False):
     button = [[
-        InlineKeyboardButton(f'ʜᴏᴍᴇ', callback_data='back'),
-        InlineKeyboardButton(f'ᴅᴏɴᴀᴛᴇ', callback_data='donate')
+        InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='back'),
+        InlineKeyboardButton('ᴅᴏɴᴀᴛᴇ', callback_data='donate')
         ],[
-        InlineKeyboardButton(f'ᴄʟᴏsᴇ', callback_data='close')
+        InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(button)
     if cb:
@@ -42,11 +42,11 @@ async def start(c, m, cb=False):
     owner = await c.get_users(Config.OWNER_ID)
     owner_username = owner.username if owner.username else 'Ns_bot_updates'
     button = [[
-        InlineKeyboardButton(f'My Owner', url=f'https://t.me/{owner_username}'),
-        InlineKeyboardButton(f'About', callback_data='about')
+        InlineKeyboardButton('My Owner', url=f'https://t.me/{owner_username}'),
+        InlineKeyboardButton('About', callback_data='about')
         ],[
-        InlineKeyboardButton(f'ʜᴇʟᴘ', callback_data="help"),
-        InlineKeyboardButton(f'ᴄʟᴏsᴇ', callback_data="close")
+        InlineKeyboardButton('ʜᴇʟᴘ', callback_data="help"),
+        InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data="close")
     ]]
     reply_markup = InlineKeyboardMarkup(button)
     if cb:
@@ -72,10 +72,10 @@ async def about(c, m, cb=False):
     owner = await c.get_users(Config.OWNER_ID)
 
     button = [[
-        InlineKeyboardButton(f'ʜᴏᴍᴇ', callback_data='back'),
-        InlineKeyboardButton(f'ᴅᴏɴᴀᴛᴇ', callback_data='donate')
+        InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='back'),
+        InlineKeyboardButton('ᴅᴏɴᴀᴛᴇ', callback_data='donate')
         ],[
-        InlineKeyboardButton(f'ᴄʟᴏsᴇ', callback_data="close")
+        InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data="close")
     ]]
     reply_markup = InlineKeyboardMarkup(button)
     if cb:
