@@ -12,12 +12,12 @@ from ..tools.thumbnail_fixation import fix_thumb
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
 from ..database.database import *
-from pyrogram import Client as RenamerNs, filters
+from pyrogram import Client as DWLrenamer, filters
 from pyrogram.errors import PeerIdInvalid, ChannelInvalid, FloodWait
 from pyrogram.emoji import *
 
 
-@RenamerNs.on_message((filters.document|filters.video) & filters.private & filters.incoming)
+DWLrenamer.on_message((filters.document|filters.video) & filters.private & filters.incoming)
 async def media(c, m):
     """Checking and Processing the renaming"""
 
