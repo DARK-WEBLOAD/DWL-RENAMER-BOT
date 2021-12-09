@@ -14,19 +14,19 @@ class TEXT:
 
     ABOUT = """**𝖬𝗒 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 :**
 
-** My Name:** {bot_name}
+** 𝑀𝑦 𝑛𝑎𝑚𝑒:** {bot_name}
     
-** Language:** [Python 3](https://www.python.org/)
+** 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒:** [Python 3](https://www.python.org/)
 
-** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
+** 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-** Developer:** {bot_owner}
+** 𝐷𝑒𝑣𝑜𝑙𝑜𝑝𝑒𝑟:** {bot_owner}
 
-** Channel:** [ᴊᴏɪɴ ғᴀsᴛ](https://t.me/joinchat/FYBCIcMfr0AyOTFl)
+** 𝐶ℎ𝑎𝑛𝑛𝑎𝑙:** [ᴊᴏɪɴ ғᴀsᴛ](https://t.me/joinchat/FYBCIcMfr0AyOTFl)
 
-** Group:** [Cɪɴᴇᴍᴀ Hᴜʙ](https://t.me/cinemahubmoviesS)
+** 𝐺𝑟𝑢𝑜𝑝:** [Cɪɴᴇᴍᴀ Hᴜʙ](https://t.me/cinemahubmoviesS)
 
-** Source Code:** [Cʟɪᴄᴋ Hᴇʀᴇ](https://t.me/joinchat/oGgao285rtBhNmM9)
+** 𝑆𝑜𝑢𝑟𝑐𝑒 𝑐𝑜𝑑𝑒:** [Cʟɪᴄᴋ Hᴇʀᴇ](https://t.me/joinchat/oGgao285rtBhNmM9)
 """
 
     HELP_USER = """**Follow Below Steps:**
