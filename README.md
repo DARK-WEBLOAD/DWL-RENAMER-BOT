@@ -83,7 +83,7 @@ login - (when password is given) to login to bot
 
 ## Dev 🧑‍💻
 <p align="middle">
-<img src="https://telegra.ph/file/8e0305dd46062eb8107f2.jpg"
+<img src="https://telegra.ph/file/1f3f64229929ca5803150.jpg"
 <img src="https://badgen.net/badge/Name/Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
 <a href="https://github.com/darkvebload"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
