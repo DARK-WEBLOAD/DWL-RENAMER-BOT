@@ -23,10 +23,10 @@ async def help_cb(c, m):
 DWLrenamer.on_callback_query(filters.regex('^donate$'))
 async def donate(c, m):
     button = [[
-        InlineKeyboardButton(f'{HOUSE_WITH_GARDEN} ʜᴏᴍᴇ', callback_data='back'),
-        InlineKeyboardButton(f'{ROBOT} ᴀʙᴏᴜᴛ', callback_data='about')
+        InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='back'),
+        InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ],[
-        InlineKeyboardButton(f'{NO_ENTRY} ᴄʟᴏsᴇ', callback_data='close')
+        InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(button)
     await m.answer()
