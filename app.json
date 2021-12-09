@@ -13,7 +13,7 @@
     "repository": "https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT",
     "stack": "heroku-20",
     "website": "https://github.com/DARK-WEBLOAD/DWL-RENAMER-BOT",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "success_url": "https://t.me/DWLrenamer_bot",
 
     "env": {
         "API_HASH": {
